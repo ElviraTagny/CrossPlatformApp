@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNativeCrossPlatformApp</string>
+    <string name="welcome">Click here to get started !</string>
+    <string name="url">http://www.munabees.com</string>
+</resources>
